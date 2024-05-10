@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer", "ImageViewer\ImageViewer.csproj", "{B6D12D23-1E47-453D-85EA-D2A1249E5031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer2", "ImageViewer2\ImageViewer2.csproj", "{6EF186ED-3682-4E63-A68A-E023FCB9CCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D12D23-1E47-453D-85EA-D2A1249E5031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D12D23-1E47-453D-85EA-D2A1249E5031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D12D23-1E47-453D-85EA-D2A1249E5031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D12D23-1E47-453D-85EA-D2A1249E5031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF186ED-3682-4E63-A68A-E023FCB9CCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF186ED-3682-4E63-A68A-E023FCB9CCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF186ED-3682-4E63-A68A-E023FCB9CCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF186ED-3682-4E63-A68A-E023FCB9CCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20C9C3C6-363A-48EF-96E5-EBE11B6CEE06}
+	EndGlobalSection
+EndGlobal
